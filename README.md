@@ -7,7 +7,7 @@ The **Web Scraping Project** is designed to extract useful information from webs
 ## Features
 
 - **Automated Data Extraction**: Scrapes structured data from web pages.
-- **Data Storage**: Saves extracted data in CSV, JSON, or database formats.
+- **Data Storage**: Saves extracted data in CSV formats.
 - **Configurable Scraping**: Allows customization of scraping parameters.
 - **Error Handling**: Manages request failures and timeouts efficiently.
 - **Lightweight and Fast**: Uses optimized libraries for efficient scraping.
@@ -58,7 +58,7 @@ Ensure you have the following installed:
 
 1. Configure the target website and scraping parameters in `config.py`.
 2. Run the script to scrape data.
-3. View or export the extracted data in your desired format.
+3. View or export the extracted data in CSV format.
 
 ## Contributing
 
